@@ -5,7 +5,6 @@ eye_cursor_blink_scroll.py
 - Double blink (two short blinks within GAP) -> SCROLL DOWN
 - Long blink -> SCROLL UP
 - Dwell (stable gaze) -> LEFT CLICK
-Author: ChatGPT (adapted for you)
 """
 
 import cv2
